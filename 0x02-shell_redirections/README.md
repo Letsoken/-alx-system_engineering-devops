@@ -6,3 +6,4 @@
 5-firstlines displays the first 10 lines
 6-third_line displays the 3rd line
 7-file
+ls cwd content
