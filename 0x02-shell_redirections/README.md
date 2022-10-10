@@ -4,3 +4,4 @@
 3-twofiles displays the content of 2 files
 4-lastlines displays last 10 lines
 5-firstlines displays the first 10 lines
+6-third_line displays the 3rd line
