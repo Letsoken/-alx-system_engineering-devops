@@ -7,3 +7,4 @@
 6-third_line displays the 3rd line
 7-file
 ls cwd content
+9-duplicate_last_line
